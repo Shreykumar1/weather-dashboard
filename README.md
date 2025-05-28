@@ -28,13 +28,13 @@ This project is a React.js-based weather dashboard that fetches and displays rea
 1.  **Clone the repository:**
 
     ```shell
-    git clone <repository-url>
+    git clone https://github.com/Shreykumar1/weather-dashboard
     ```
 
 2.  **Navigate to the project directory:**
 
     ```shell
-    cd weather-wise-widget-86
+    cd weather-dashboard
     ```
 
 3.  **Install dependencies:**
@@ -56,7 +56,7 @@ This project is a React.js-based weather dashboard that fetches and displays rea
     Create a `.env` file in the project root and add your API key:
 
     ```
-    REACT_APP_API_KEY=your_api_key_here
+    VITE_API_KEY=your_api_key_here
     ```
 
 6.  **Start the development server:**
