@@ -69,4 +69,4 @@ This project is a React.js-based weather dashboard that fetches and displays rea
     bun run start
     ```
 
-7.  **Open your browser and navigate to `http://localhost:3000` (or the appropriate port).**
+7.  **Open your browser and navigate to `http://localhost:8080` (or the appropriate port).**
