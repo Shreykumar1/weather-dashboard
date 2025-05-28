@@ -70,3 +70,7 @@ This project is a React.js-based weather dashboard that fetches and displays rea
     ```
 
 7.  **Open your browser and navigate to `http://localhost:8080` (or the appropriate port).**
+
+## Deployed Link
+
+[Weather Dashboard](https://weather-dash12.netlify.app/)
